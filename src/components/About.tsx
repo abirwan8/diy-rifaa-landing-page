@@ -14,7 +14,7 @@ export function About({ crafters }: { crafters: number }) {
         <div className="grid grid-cols-2 gap-3 sm:gap-4">
           <Reveal variant="mask" className="row-span-2 self-center">
             <div className="relative aspect-[4/5] overflow-hidden rounded-[2rem] shadow-photo">
-              <Image src="/images/about/17.jpg" alt="Hands arranging a handmade pastel bouquet with a pink ribbon" fill sizes="(min-width: 1024px) 300px, 46vw" className="object-cover" />
+              <Image src="/images/about/17.JPG" alt="Hands arranging a handmade pastel bouquet with a pink ribbon" fill sizes="(min-width: 1024px) 300px, 46vw" className="object-cover" />
             </div>
           </Reveal>
           <Reveal variant="mask" index={1}>
@@ -24,7 +24,7 @@ export function About({ crafters }: { crafters: number }) {
           </Reveal>
           <Reveal variant="mask" index={2}>
             <div className="relative aspect-[5/4] overflow-hidden rounded-[2rem] shadow-photo">
-              <Image src="/images/about/38.jpeg" alt="Studio shelves stacked with ribbons, paper and craft supplies" fill sizes="(min-width: 1024px) 300px, 46vw" className="object-cover" />
+              <Image src="/images/about/38.JPEG" alt="Studio shelves stacked with ribbons, paper and craft supplies" fill sizes="(min-width: 1024px) 300px, 46vw" className="object-cover" />
             </div>
           </Reveal>
         </div>

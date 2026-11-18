@@ -12,7 +12,7 @@
     "title": "Mini bouquet keychain",
     "alt": "Mini bouquet keychain",
     "category": "keychains",
-    "image": "/images/gallery/32.jpg",
+    "image": "/images/gallery/32.JPG",
     "order": 2
   },
   {
@@ -20,7 +20,7 @@
     "title": "Love bouquet of roses from satin ribbon",
     "alt": "Love bouquet",
     "category": "bouquets",
-    "image": "/images/gallery/71.jpeg",
+    "image": "/images/gallery/71.JPEG",
     "order": 3
   },
   {
@@ -28,7 +28,7 @@
     "title": "Pipe cleaner flower pot",
     "alt": "Pipe cleaner flower pot",
     "category": "flowers",
-    "image": "/images/gallery/8.jpg",
+    "image": "/images/gallery/8.JPG",
     "order": 4
   },
   {
@@ -36,7 +36,7 @@
     "title": "Pink flowers from pipe cleaners",
     "alt": "Pink flowers from pipe cleaners",
     "category": "flowers",
-    "image": "/images/gallery/1.jpg",
+    "image": "/images/gallery/1.JPG",
     "order": 5
   },
   {
@@ -44,7 +44,7 @@
     "title": "Hand bouquet from pipe cleaners",
     "alt": "Hand bouquet from pipe cleaners",
     "category": "bouquets",
-    "image": "/images/gallery/19.jpg",
+    "image": "/images/gallery/19.JPG",
     "order": 6
   },
   {
@@ -52,7 +52,7 @@
     "title": "Flower shaped money bouquet",
     "alt": "Flower shaped money bouquet",
     "category": "bouquets",
-    "image": "/images/gallery/50.jpg",
+    "image": "/images/gallery/50.JPG",
     "order": 7
   },
   {
@@ -60,7 +60,7 @@
     "title": "Colorful pipe cleaner flowers pot",
     "alt": "Colorful pipe cleaner flowers pot",
     "category": "flowers",
-    "image": "/images/gallery/22.jpg",
+    "image": "/images/gallery/22.JPG",
     "order": 8
   },
   {
@@ -68,7 +68,7 @@
     "title": "Satin ribbon flowers",
     "alt": "Satin ribbon flowers",
     "category": "flowers",
-    "image": "/images/gallery/43.jpeg",
+    "image": "/images/gallery/43.JPEG",
     "order": 9
   },
   {
@@ -76,7 +76,7 @@
     "title": "Single sunflower bouquet",
     "alt": "Single sunflower bouquet",
     "category": "bouquets",
-    "image": "/images/gallery/60.jpg",
+    "image": "/images/gallery/60.JPG",
     "order": 10
   }
 ]
