@@ -1,0 +1,18 @@
+# build output
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.github/
+
+# dependencies
+node_modules/
+.vercel
+
+# secrets - NEVER commit these
+.env
+.env.*
+!.env.example
+
+npm-debug.log*
+.DS_Store

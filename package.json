@@ -1,0 +1,35 @@
+{
+  "name": "diy-rifas-next",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DIY Rifa's – tutorials, craft supplies and inspiration. Next.js (App Router) + Tailwind CSS.",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "build:static": "cross-env NEXT_OUTPUT=export next build",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "next": "^16.4.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "server-only": "^0.0.1",
+    "sharp": "^0.35.4",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/aos": "^3.0.8",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "cross-env": "^10.1.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.0"
+  }
+}
